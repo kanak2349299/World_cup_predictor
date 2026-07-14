@@ -57,18 +57,15 @@ WORLD_CUP_PREDICTOR/
 
 ## 🚀 Installation & Running
 
-### 1.Clone the repo / Open folder
-```bash
-cd WORLD_CUP_PREDICTOR
 
-**2.Create virtual environment**
+**1.Create virtual environment**
 python -m venv .venv
 .venv\Scripts\activate   
 
- **3.Install dependencies**
+ **2.Install dependencies**
  pip install -r requirements.txt
 
- **4.Run the app**
+ **3.Run the app**
  streamlit run app.py
 
 
