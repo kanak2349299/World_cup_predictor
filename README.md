@@ -48,12 +48,12 @@ WORLD_CUP_PREDICTOR/
 - Target: Winner
 
 ##  **🎮 How to UseOpen** 
- - 1. 🏅 Match Prediction from the sidebar
- - 2. Select:Tournament Year: e.g. 2026
+ -  🏅 Match Prediction from the sidebar
+ -  Select:Tournament Year: e.g. 2026
         - Match Stage: e.g. Final, Semi-finals, Group
         - Home Team and Away Team
- - 3. Click 🏆 Predict Winner
- - 4. The app will show winner + win probability. Stats update after each prediction.
+ -  Click 🏆 Predict Winner
+ -  The app will show winner + win probability. Stats update after each prediction.
 
 ## 🚀 Installation & Running
 
