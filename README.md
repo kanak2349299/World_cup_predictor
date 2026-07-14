@@ -78,8 +78,7 @@ python -m venv .venv
 ![Prediction](./Screenshots/prediction.png)
 
 **App Link**
-
-
+https://kanak2349299-world-cup-predictor-app-pdvd1c.streamlit.app/
 
 **👩🏻‍💻 Developer**
 **Himangi Gupta**
