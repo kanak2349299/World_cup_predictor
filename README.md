@@ -75,10 +75,10 @@ python -m venv .venv
 ## **📸 Screenshots**
 
 ### Dashboard
-![Dashboard](Dashboard.png)
+![Dashboard](./Screenshots/Dashboard.png)
 
-### Prediction Page
-![Prediction](prediction.png)
+### Prediction Page  
+![Prediction](./Screenshots/prediction.png)
 
 **App Link**
 
